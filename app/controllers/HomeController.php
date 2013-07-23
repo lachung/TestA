@@ -56,6 +56,7 @@ class HomeController extends BaseController {
 			return $str;
 		}else{
 			$str = "Like 22222";
+			return $str;
 		}
 	}
 	
